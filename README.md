@@ -1,2 +1,2 @@
 # md-chip-template-attributes
-For angularjs material md-chips
+Acting on the md-chip element via md-chip-template.
